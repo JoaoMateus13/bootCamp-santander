@@ -1,4 +1,4 @@
-package com.projeto.api.bootCampsantander;
+package bootCampsantanderAPI.domain;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

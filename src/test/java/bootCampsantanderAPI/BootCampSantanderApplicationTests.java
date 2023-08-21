@@ -1,4 +1,4 @@
-package com.projeto.api.bootCampsantander;
+package bootCampsantanderAPI;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
